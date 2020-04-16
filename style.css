@@ -1,0 +1,33 @@
+
+
+.site-footer {
+    padding: 10px 0;
+    background-image: linear-gradient(white, blue);
+	color:white;
+    font-size: 13px;
+    width: 100%;
+    text-align: center;
+    position: relative;
+    bottom: 0px;
+    height: 22px;
+}
+
+
+body {
+    font-family: Verdana, sans-serif;
+    }
+
+
+
+
+
+
+
+
+.sidebar1 {
+    display: inline-block;
+}
+
+.sidebar2 {
+    display: inline-block;
+}
